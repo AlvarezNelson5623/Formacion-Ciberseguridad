@@ -1,6 +1,4 @@
-# Realización de una auditoría de seguridad
-
-## Escenario
+# Escenario: Botium Toys
 
 Este escenario se basa en una empresa ficticia:
 
