@@ -1,7 +1,5 @@
 # Escenario
 
-Revise el siguiente escenario. A continuación, complete las instrucciones paso a paso.
-
 ---
 
 ## Descripción
