@@ -15,15 +15,4 @@ Aquí se incluirán ejemplos relacionados con:
 
 > 📌 Este repositorio es de uso personal y educativo. No representa a Google ni contiene contenido exclusivo del curso.
 
----
 
-## Estructura sugerida
-
-```bash
-📁 practicas/
-├── modulo1_fundamentos/
-├── modulo2_redes/
-├── modulo3_linux/
-├── modulo4_riesgos/
-├── proyectos_finales/
-└── README.md
